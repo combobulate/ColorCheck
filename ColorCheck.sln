@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorCheck", "ColorCheck\ColorCheck.csproj", "{30E4F644-E90F-4C61-9E2F-E8994268803C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E4F644-E90F-4C61-9E2F-E8994268803C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E4F644-E90F-4C61-9E2F-E8994268803C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E4F644-E90F-4C61-9E2F-E8994268803C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E4F644-E90F-4C61-9E2F-E8994268803C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F084A44-8A0E-487E-9DD4-DD7B2DC0CCC0}
+	EndGlobalSection
+EndGlobal

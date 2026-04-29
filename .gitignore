@@ -1,0 +1,6 @@
+.vs
+obj
+ColorCheck/bin/Debug/net8.0-windows/ColorCheck.deps.json
+ColorCheck/bin/Debug/net8.0-windows/ColorCheck.dll
+ColorCheck/bin/Debug/net8.0-windows/ColorCheck.pdb
+ColorCheck/bin/Debug/net8.0-windows/ColorCheck.runtimeconfig.json
